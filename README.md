@@ -19,32 +19,6 @@ Jack of all trades: I learn by building things from scratch.
 |:---:|:---:|:---:|
 | Med student in Geneva, coding in my spare time | Browsers, engines and tools in Rust, Swift for iOS | Contributing to Burn, deep learning in Rust |
 
-```rust
-struct HarpeLm {
-    location: &'static str,
-    studies: &'static str,
-    languages: [&'static str; 3],
-    contributing_to: &'static str,
-    currently_building: [&'static str; 3],
-}
-
-impl HarpeLm {
-    fn new() -> Self {
-        Self {
-            location: "Geneva, Switzerland",
-            studies: "Medicine",
-            languages: ["Rust", "Swift", "Python"],
-            contributing_to: "tracel-ai/burn-onnx",
-            currently_building: ["a browser engine", "a chess engine", "iOS apps"],
-        }
-    }
-
-    fn motto(&self) -> &str {
-        "Jack of all trades: learn by building things from scratch."
-    }
-}
-```
-
 ## 🤝 Open source
 
 <table>
