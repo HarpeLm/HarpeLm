@@ -15,10 +15,51 @@ Jack of all trades: I learn by building things from scratch.
 
 ## 🌱 About me
 
-- 🩺 I study medicine, and I code in my spare time
-- 🦀 Mostly **Rust**, also **Swift** for iOS and a bit of everything else
-- 🔥 Currently contributing to [**Burn**](https://github.com/tracel-ai/burn), a deep learning framework in Rust, through its ONNX importer
-- 🧩 I like going deep: browser engines, chess engines, AI assistants, apps
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<h3>🩺</h3>
+<b>Medicine</b><br>
+<sub>Med student in Geneva,<br>coding in my spare time</sub>
+</td>
+<td align="center" width="33%">
+<h3>🦀</h3>
+<b>Rust first</b><br>
+<sub>Browsers, engines, tools.<br>Swift for iOS</sub>
+</td>
+<td align="center" width="33%">
+<h3>🔥</h3>
+<b>Open source</b><br>
+<sub>Contributing to Burn,<br>deep learning in Rust</sub>
+</td>
+</tr>
+</table>
+
+```rust
+struct HarpeLm {
+    location: &'static str,
+    studies: &'static str,
+    languages: [&'static str; 3],
+    contributing_to: &'static str,
+    currently_building: [&'static str; 3],
+}
+
+impl HarpeLm {
+    fn new() -> Self {
+        Self {
+            location: "Geneva, Switzerland 🇨🇭",
+            studies: "Medicine 🩺",
+            languages: ["Rust", "Swift", "Python"],
+            contributing_to: "tracel-ai/burn-onnx",
+            currently_building: ["a browser engine", "a chess engine", "iOS apps"],
+        }
+    }
+
+    fn motto(&self) -> &str {
+        "Jack of all trades: learn by building things from scratch."
+    }
+}
+```
 
 ## 🤝 Open source
 
