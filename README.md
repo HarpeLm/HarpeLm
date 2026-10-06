@@ -15,25 +15,9 @@ Jack of all trades: I learn by building things from scratch.
 
 ## 🌱 About me
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<h3>🩺</h3>
-<b>Medicine</b><br>
-<sub>Med student in Geneva,<br>coding in my spare time</sub>
-</td>
-<td align="center" width="33%">
-<h3>🦀</h3>
-<b>Rust first</b><br>
-<sub>Browsers, engines, tools.<br>Swift for iOS</sub>
-</td>
-<td align="center" width="33%">
-<h3>🔥</h3>
-<b>Open source</b><br>
-<sub>Contributing to Burn,<br>deep learning in Rust</sub>
-</td>
-</tr>
-</table>
+| 🩺 Medicine | 🦀 Rust first | 🔥 Open source |
+|:---:|:---:|:---:|
+| Med student in Geneva, coding in my spare time | Browsers, engines and tools in Rust, Swift for iOS | Contributing to Burn, deep learning in Rust |
 
 ```rust
 struct HarpeLm {
@@ -47,8 +31,8 @@ struct HarpeLm {
 impl HarpeLm {
     fn new() -> Self {
         Self {
-            location: "Geneva, Switzerland 🇨🇭",
-            studies: "Medicine 🩺",
+            location: "Geneva, Switzerland",
+            studies: "Medicine",
             languages: ["Rust", "Swift", "Python"],
             contributing_to: "tracel-ai/burn-onnx",
             currently_building: ["a browser engine", "a chess engine", "iOS apps"],
