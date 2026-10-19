@@ -21,6 +21,15 @@ Jack of all trades: I learn by building things from scratch.
 
 ## 🤝 Open source
 
+<div align="center">
+
+<a href="https://github.com/pulls?q=is%3Apr+author%3AHarpeLm+org%3Atracel-ai+is%3Amerged"><img alt="Merged PRs" src="https://img.shields.io/github/issues-search?query=org%3Atracel-ai%20author%3AHarpeLm%20is%3Apr%20is%3Amerged&label=Merged%20PRs&color=8957e5&style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://github.com/tracel-ai/burn-onnx/pulls?q=is%3Apr+author%3AHarpeLm+is%3Amerged"><img alt="burn-onnx" src="https://img.shields.io/github/issues-search?query=repo%3Atracel-ai/burn-onnx%20author%3AHarpeLm%20is%3Apr%20is%3Amerged&label=burn-onnx&color=F74C00&style=for-the-badge&logo=rust&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://github.com/tracel-ai/burn/pulls?q=is%3Apr+author%3AHarpeLm+is%3Amerged"><img alt="burn" src="https://img.shields.io/github/issues-search?query=repo%3Atracel-ai/burn%20author%3AHarpeLm%20is%3Apr%20is%3Amerged&label=burn&color=F74C00&style=for-the-badge&logo=rust&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3AHarpeLm+org%3Atracel-ai+is%3Aopen"><img alt="In review" src="https://img.shields.io/github/issues-search?query=org%3Atracel-ai%20author%3AHarpeLm%20is%3Apr%20is%3Aopen&label=In%20review&color=238636&style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117"/></a>
+
+</div>
+
 <table>
 <tr>
 <td>
