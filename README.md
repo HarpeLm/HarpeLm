@@ -30,19 +30,6 @@ Jack of all trades: I learn by building things from scratch.
 
 </div>
 
-<table>
-<tr>
-<td>
-
-**[tracel-ai/burn-onnx#592](https://github.com/tracel-ai/burn-onnx/pull/592)** · ![merged](https://img.shields.io/badge/merged-8957e5?style=flat-square&logo=github&logoColor=white)
-
-**Split: accept Shape as split sizes input**
-Fixed `Split` rejecting `Shape` inputs and its codegen for runtime `Shape` split sizes, which unblocked 5 official ONNX `rotary_embedding` tests.
-
-</td>
-</tr>
-</table>
-
 ## 🚀 Projects
 
 <table>
