@@ -21,7 +21,7 @@
 <h3 align="center">Stack</h3>
 
 <p align="center">
-  <img src="assets/vitals.svg" alt="Stack: Rust daily, Swift and SwiftUI for iOS, Burn and ONNX for deep learning, Python and web for tools" width="100%">
+  <img src="https://skillicons.dev/icons?i=rust,swift,py,js,html,css,git,apple&theme=dark&perline=8" alt="Rust, Swift, Python, JavaScript, HTML, CSS, Git, Apple" />
 </p>
 
 <br>
