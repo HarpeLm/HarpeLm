@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-label="Medicine in Geneva, Rust first, open source contributor">
+  <defs>
+    <style>
+      .t { font: 700 22px -apple-system, "SF Pro Display", "Segoe UI", Inter, Arial, sans-serif; fill: #F0F3F6; }
+      .d { font: 500 15px -apple-system, "SF Pro Text", "Segoe UI", Inter, Arial, sans-serif; fill: #9198A1; }
+      .k { font: 600 11px "SF Mono", ui-monospace, Menlo, Consolas, monospace; letter-spacing: 2.5px; }
+      .s { fill: none; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+      .pulse { animation: p 2.4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      @keyframes p { 0%, 100% { opacity: .55; } 50% { opacity: 1; } }
+      .spin { animation: r 9s linear infinite; transform-box: fill-box; transform-origin: center; }
+      @keyframes r { to { transform: rotate(360deg); } }
+    </style>
+  </defs>
+
+  <g>
+    <rect x="0" y="0" width="384" height="250" rx="20" fill="#0D1117" stroke="#F0F3F6" stroke-opacity=".08"/>
+    <rect x="28" y="28" width="56" height="56" rx="16" fill="#FF4D6D" fill-opacity=".12"/>
+    <g transform="translate(56 56)" stroke="#FF4D6D">
+      <path class="s" d="M-12 -14 V-2 a12 12 0 0 0 24 0 V-14"/>
+      <path class="s" d="M0 10 V14 a8 8 0 0 0 16 0 V6"/>
+      <circle class="s pulse" cx="16" cy="2" r="4"/>
+    </g>
+    <text x="28" y="118" class="k" fill="#FF4D6D">01 · MEDICINE</text>
+    <text x="28" y="152" class="t">Med student in Geneva</text>
+    <text x="28" y="182" class="d">Coding in my spare time,</text>
+    <text x="28" y="204" class="d">between lectures and labs.</text>
+  </g>
+
+  <g transform="translate(408 0)">
+    <rect x="0" y="0" width="384" height="250" rx="20" fill="#0D1117" stroke="#F0F3F6" stroke-opacity=".08"/>
+    <rect x="28" y="28" width="56" height="56" rx="16" fill="#F74C00" fill-opacity=".12"/>
+    <g transform="translate(56 56)" stroke="#F74C00">
+      <g class="spin">
+        <circle class="s" r="13"/>
+        <path class="s" d="M0 -19 V-13 M0 13 V19 M-19 0 H-13 M13 0 H19 M-13.4 -13.4 L-9.2 -9.2 M9.2 9.2 L13.4 13.4 M-13.4 13.4 L-9.2 9.2 M9.2 -9.2 L13.4 -13.4"/>
+      </g>
+      <path class="s" d="M-4 -5 L-8 0 L-4 5 M4 -5 L8 0 L4 5"/>
+    </g>
+    <text x="28" y="118" class="k" fill="#F74C00">02 · RUST FIRST</text>
+    <text x="28" y="152" class="t">Built from scratch</text>
+    <text x="28" y="182" class="d">Browser engines, AI tools and</text>
+    <text x="28" y="204" class="d">chess in Rust, iOS apps in Swift.</text>
+  </g>
+
+  <g transform="translate(816 0)">
+    <rect x="0" y="0" width="384" height="250" rx="20" fill="#0D1117" stroke="#F0F3F6" stroke-opacity=".08"/>
+    <rect x="28" y="28" width="56" height="56" rx="16" fill="#8957E5" fill-opacity=".14"/>
+    <g transform="translate(56 56)" stroke="#8957E5">
+      <circle class="s" cx="-9" cy="-12" r="4"/>
+      <circle class="s" cx="-9" cy="12" r="4"/>
+      <circle class="s pulse" cx="10" cy="12" r="4"/>
+      <path class="s" d="M-9 -8 V8 M10 8 V0 a8 8 0 0 0 -8 -8 H-3"/>
+      <path class="s" d="M0 -11 L-3 -8 L0 -5"/>
+    </g>
+    <text x="28" y="118" class="k" fill="#8957E5">03 · OPEN SOURCE</text>
+    <text x="28" y="152" class="t">Contributor</text>
+    <text x="28" y="182" class="d">Burn (deep learning) and</text>
+    <text x="28" y="204" class="d">NyaTerm (remote terminal).</text>
+  </g>
+</svg>
