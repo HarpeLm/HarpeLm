@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90" role="img" aria-label="Keep building">
+  <defs>
+    <linearGradient id="fade" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0">
+      <stop offset="0" stop-color="#FF4D6D" stop-opacity="0"/><stop offset=".5" stop-color="#F74C00"/><stop offset="1" stop-color="#8957E5" stop-opacity="0"/>
+    </linearGradient>
+    <style>.k { font: 600 12px "SF Mono", ui-monospace, Menlo, Consolas, monospace; letter-spacing: 4px; fill: #9198A1; }</style>
+  </defs>
+  <path d="M0 40 H540 L556 40 L566 22 L578 58 L590 14 L602 52 L612 40 H1200" fill="none" stroke="url(#fade)" stroke-width="2.5" stroke-linejoin="round"
+        stroke-dasharray="1300" stroke-dashoffset="1300">
+    <animate attributeName="stroke-dashoffset" values="1300;0;0" keyTimes="0;0.6;1" dur="4s" repeatCount="indefinite"/>
+  </path>
+  <text x="600" y="82" class="k" text-anchor="middle">KEEP BUILDING · FROM SCRATCH</text>
+</svg>
