@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/about.svg" alt="Medicine: med student in Geneva. Rust first: browser engines, AI tools and chess in Rust, iOS apps in Swift. Open source: contributor to Burn, NyaTerm, SongRec, OxideTerm, WebCodex, Neomacs and RocketMQ." width="100%">
+  <img src="assets/about.svg" alt="Medicine: med student in Geneva. Rust first: browser engines, AI tools and chess in Rust, iOS apps in Swift. Open source: contributor to Burn, NyaTerm, SongRec, OxideTerm, WebCodex, Neomacs, RocketMQ and zbus." width="100%">
 </p>
 
 <h3 align="center">Open source</h3>
@@ -20,6 +20,8 @@
   <a href="https://github.com/eval-exec/neomacs/pulls?q=is%3Apr+author%3AHarpeLm+is%3Amerged"><img alt="neomacs" src="https://img.shields.io/github/issues-search?query=repo%3Aeval-exec/neomacs%20author%3AHarpeLm%20is%3Apr%20is%3Amerged&label=neomacs&color=F74C00&style=for-the-badge&logo=rust&logoColor=white&labelColor=0d1117"/></a>
   <a href="https://github.com/mxsm/rocketmq-rust/pulls?q=is%3Apr+author%3AHarpeLm+is%3Amerged"><img alt="rocketmq-rust" src="https://img.shields.io/github/issues-search?query=repo%3Amxsm/rocketmq-rust%20author%3AHarpeLm%20is%3Apr%20is%3Amerged&label=rocketmq-rust&color=F74C00&style=for-the-badge&logo=rust&logoColor=white&labelColor=0d1117"/></a>
   <a href="https://github.com/marin-m/SongRec/pulls?q=is%3Apr+author%3AHarpeLm+is%3Amerged"><img alt="SongRec" src="https://img.shields.io/github/issues-search?query=repo%3Amarin-m/SongRec%20author%3AHarpeLm%20is%3Apr%20is%3Amerged&label=SongRec&color=F74C00&style=for-the-badge&logo=rust&logoColor=white&labelColor=0d1117"/></a>
+  <a href="https://github.com/z-galaxy/zbus/pulls?q=is%3Apr+author%3AHarpeLm+is%3Amerged"><img alt="zbus" src="https://img.shields.io/github/issues-search?query=repo%3Az-galaxy/zbus%20author%3AHarpeLm%20is%3Apr%20is%3Amerged&label=zbus&color=F74C00&style=for-the-badge&logo=rust&logoColor=white&labelColor=0d1117"/></a>
+  <a href="https://github.com/rustsec/advisory-db/pulls?q=is%3Apr+author%3AHarpeLm+is%3Amerged"><img alt="RustSec advisory-db" src="https://img.shields.io/github/issues-search?query=repo%3Arustsec/advisory-db%20author%3AHarpeLm%20is%3Apr%20is%3Amerged&label=RustSec&color=F74C00&style=for-the-badge&logo=rust&logoColor=white&labelColor=0d1117"/></a>
   <a href="https://github.com/issues?q=is%3Aissue+author%3AHarpeLm+-user%3AHarpeLm"><img alt="Issues opened" src="https://img.shields.io/github/issues-search?query=author%3AHarpeLm%20-user%3AHarpeLm%20is%3Aissue&label=Issues%20opened&color=238636&style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
 </p>
 
